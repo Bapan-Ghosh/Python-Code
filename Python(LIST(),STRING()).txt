@@ -1,0 +1,5 @@
+https://www.w3schools.com/python/python_ref_list.asp
+
+https://www.w3schools.com/python/python_ref_string.asp
+
+https://www.w3schools.com/python/python_ref_dictionary.asp

@@ -1,0 +1,5 @@
+def fun(*n):
+    print(n)   
+    
+fun("bapan",'mca',1234," Hi ")
+    
